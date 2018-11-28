@@ -13,3 +13,7 @@ __pycache__/
 *.pickle
 *.mp3
 *.pdf
+
+# Musiques
+fma_metadata/
+fma_small/
